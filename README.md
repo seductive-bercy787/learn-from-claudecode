@@ -3,6 +3,7 @@
 > Deep analysis of Anthropic's **Claude Code** CLI source (~1,900 TS files, 512K+ lines), extracting production-grade LLM engineering patterns across 26 in-depth articles.
 
 ### Language Selection: **[ENG](#eng)** | **[한국어](#kr)**
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/c1d4d437-911e-4947-b1e3-b2cc49f74a85" />
 
 ---
 
