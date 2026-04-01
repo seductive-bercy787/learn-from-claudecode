@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "what-would-cc-do",
-      "source": ".",
+      "source": "./",
       "description": "Assess and apply Claude Code's LLM engineering patterns to your codebase"
     }
   ]
