@@ -205,6 +205,18 @@ The user's selections will be used by the `:claudecodefy` command to apply chang
 
 ---
 
+## Phase 6: Transition to Claudecodefy
+
+If at least one gap was selected, ask the user whether to apply changes now:
+
+Options:
+- **"Yes, run :claudecodefy now"** — immediately invoke the `:claudecodefy` command to apply the selected gaps
+- **"No, I'll do it later"** — end the assess session; the user can run `/what-would-cc-do:claudecodefy` manually when ready
+
+If the user selected "None — just wanted the assessment" in Phase 5, skip this phase entirely.
+
+---
+
 ## Output Rules
 
 - Always cite CC reference files by number (e.g., "claude_code_07")
