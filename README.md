@@ -118,6 +118,35 @@ LLM 엔지니어링 관점에서 가치가 높은 순서로 정리했습니다. 
 
 ---
 
+## Claude Code Plugin: what-would-cc-do
+
+이 리포는 **Claude Code 플러그인**으로도 사용할 수 있습니다. 자신의 코드와 LLM practice를 Claude Code의 패턴과 비교 분석하고, 개선점을 적용할 수 있습니다.
+
+### 설치
+
+```
+/plugin marketplace add nathanyjleeprojects/learn-from-claudecode
+/plugin install what-would-cc-do@learn-from-claudecode
+```
+
+### 사용법
+
+| 명령어 | 설명 |
+|--------|------|
+| `/what-would-cc-do:assess` | 내 코드/practice를 Claude Code 패턴과 비교 분석 |
+| `/what-would-cc-do:claudecodefy` | 분석 결과를 바탕으로 개선 적용 |
+
+### 워크플로우
+
+1. `:assess` 실행 — 분석 대상과 범위 선택
+2. Gap 분석 결과 확인 — 각 gap별 CC 방식, 현재 방식, pros/cons 제시
+3. 개선할 gap 선택 (전체 / 고영향만 / 특정 항목 / 없음)
+4. `:claudecodefy` 실행 — 선택한 개선점을 코드에 적용
+
+외부 DB나 API 키가 필요 없습니다. 이 리포의 27개 MD 파일이 곧 knowledge base입니다.
+
+---
+
 ## 출처
 
 이 분석은 [Claude Code npm 패키지의 공개된 sourcemap](https://github.com/nirholas/claude-code)을 기반으로 합니다.
