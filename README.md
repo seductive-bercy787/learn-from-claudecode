@@ -4,6 +4,10 @@
 
 ### Language Selection: **[ENG](#eng)** | **[한국어](#kr)**
 
+<p align="center">
+  <img src="professor.png" alt="Professor" />
+</p>
+
 ---
 
 <a id="eng"></a>
