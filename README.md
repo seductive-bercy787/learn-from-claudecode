@@ -2,7 +2,7 @@
 
 > Deep analysis of Anthropic's **Claude Code** CLI source (~1,900 TS files, 512K+ lines), extracting production-grade LLM engineering patterns across 26 in-depth articles.
 
-**[ENG](#eng) | [KR](#kr)**
+### Language Selection: **[ENG](#eng)** | **[한국어](#kr)**
 
 ---
 
@@ -135,7 +135,7 @@ A curated curriculum for becoming a better LLM engineer, organized in 4 phases:
 
 <a id="kr"></a>
 
-## KR
+## 한국어
 
 ### Claude Code Plugin: what-would-cc-do
 
